@@ -1,0 +1,6 @@
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "components/esp32-aliyun/iotkit-embedded"]
+	path = components/esp32-aliyun/iotkit-embedded
+	url = https://github.com/aliyun/iotkit-embedded.git
